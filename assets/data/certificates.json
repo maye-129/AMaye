@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Computer Hardware Basics",
+    "category": "Certification",
+    "image": "assets/images/cert/Computer Hardware basics .png"
+  },
+  {
+    "title": "Introduction to AI Literacy and Responsible Use",
+    "category": "Certification",
+    "image": "assets/images/cert/Introduction to AI Literacy and Responsible Use.png"
+  },
+  {
+    "title": "Introduction of Modern AI",
+    "category": "Certification",
+    "image": "assets/images/cert/Introduction of Modern AI .png"
+  },
+  {
+    "title": "Introduction to Cybersecurity",
+    "category": "Certification",
+    "image": "assets/images/cert/Introduction yo cybersecurity .png"
+  },
+  {
+    "title": "Build a computer vision app with Azure Cognitive Services",
+    "category": "Certification",
+    "image": "assets/images/cert/Microsoft.png"
+  },
+  {
+    "title": "Build a free website with WordPress",
+    "category": "Certification",
+    "image": "assets/images/cert/Build a free website with WordPress.png"
+  },
+  {
+    "title": "Building Smart Business Assistants with IBM Watson",
+    "category": "Certification",
+    "image": "assets/images/cert/Building Smart Business Assistants with IBM Watson.png"
+  },
+  {
+    "title": "Azure create a REST API using NodeJS Serverless Functions",
+    "category": "Certification",
+    "image": "assets/images/cert/Azure create a REST API using NodeJS Serverless Functions.png"
+  },
+  {
+    "title": "Build a mobile app with Google Sheets on Glide and no coding",
+    "category": "Certification",
+    "image": "assets/images/cert/Build a mobile app with Google Sheets on Glide and no coding.png"
+  },
+  {
+    "title": "Create Your First Python Program From UST",
+    "category": "Certification",
+    "image": "assets/images/cert/Create Your First Python Program From UST.png"
+  },
+  {
+    "title": "Use Canva to Design Digital Course Collateral",
+    "category": "Certification",
+    "image": "assets/images/cert/Use Canva to Design Digital Course Collateral.png"
+  }
+]
